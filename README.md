@@ -2,11 +2,7 @@
 
 ### Codedamn Mastering Reactjs Project
 
-### To display the list of destinations with images, information, name
-
-### Process :
-
-
+### This is tiktok clone with video pause/play option and liking and disliking the 
 
 ⬇️ Check out Here ⬇️
 
